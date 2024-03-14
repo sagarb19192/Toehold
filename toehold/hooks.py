@@ -215,3 +215,6 @@ app_license = "MIT"
 # auth_hooks = [
 #	"toehold.auth.validate"
 # ]
+
+fixtures = ["Currency","Role", "Module Def", "Module Profile", "Custom DocPerm", "System Settings", "Navbar Settings", "Workspace"]
+
