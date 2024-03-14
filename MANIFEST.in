@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include toehold *.css
+recursive-include toehold *.csv
+recursive-include toehold *.html
+recursive-include toehold *.ico
+recursive-include toehold *.js
+recursive-include toehold *.json
+recursive-include toehold *.md
+recursive-include toehold *.png
+recursive-include toehold *.py
+recursive-include toehold *.svg
+recursive-include toehold *.txt
+recursive-exclude toehold *.pyc
