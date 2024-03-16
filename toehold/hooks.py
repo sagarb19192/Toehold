@@ -126,6 +126,11 @@ app_license = "MIT"
 #	}
 # }
 
+doc_events = {
+    "Sales Invoice": {
+        "after_insert": "toehold.custom.update_sales_taxes"
+    }
+}
 # Scheduled Tasks
 # ---------------
 
