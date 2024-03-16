@@ -1,0 +1,99 @@
+{
+ "charts": [
+  {
+   "chart_name": "Total Customers",
+   "label": "Total Customers"
+  }
+ ],
+ "content": "[{\"id\":\"sQhAnoAc8k\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Total Customers\",\"col\":12}},{\"id\":\"4TL0kvGpRL\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"btrofCqd8R\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Items\",\"col\":3}},{\"id\":\"xreVXzfRUd\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Customers\",\"col\":3}},{\"id\":\"uH5b7R-PhN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Invoices\",\"col\":3}},{\"id\":\"mN8BpFFIUe\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Taxes and Charges Template\",\"col\":3}},{\"id\":\"cSLh8sGGts\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"IJ5w7ew1yz\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports</b></span>\",\"col\":12}},{\"id\":\"DbLFXM6KkO\",\"type\":\"card\",\"data\":{\"card_name\":\"Sales Invoice Summary\",\"col\":4}}]",
+ "creation": "2024-03-16 08:25:34.522901",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Toehold",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Sales Invoice Summary",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Sales Invoice Summary",
+   "link_count": 0,
+   "link_to": "Sales Invoice",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Total Monthly Revenue From Different Categories",
+   "link_count": 0,
+   "link_to": "Total Monthly Revenue From Different Categories",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly Revenue from diffrerent Items",
+   "link_count": 0,
+   "link_to": "Monthly Revenue from diffrerent items",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2024-03-16 16:46:30.500394",
+ "modified_by": "Administrator",
+ "module": "Toehold",
+ "name": "Toehold",
+ "number_cards": [],
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 3.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Customers",
+   "link_to": "Customer",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Items",
+   "link_to": "Item",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Sales Invoices",
+   "link_to": "Sales Invoice",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Sales Taxes and Charges Template",
+   "link_to": "Sales Taxes and Charges Template",
+   "type": "DocType"
+  }
+ ],
+ "title": "Toehold"
+}

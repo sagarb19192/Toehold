@@ -301,7 +301,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-09-12 11:21:28.494678",
+  "modified": "2024-03-16 13:37:54.247140",
   "module": "Assets",
   "name": "Assets",
   "number_cards": [],
@@ -310,7 +310,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 5.0,
+  "sequence_id": 7.0,
   "shortcuts": [
    {
     "color": null,
@@ -672,7 +672,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-09-12 11:21:29.352386",
+  "modified": "2024-03-16 13:37:55.039110",
   "module": "Projects",
   "name": "Projects",
   "number_cards": [],
@@ -1035,7 +1035,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-09-12 11:21:29.814268",
+  "modified": "2024-03-16 13:37:55.335349",
   "module": "Support",
   "name": "Support",
   "number_cards": [],
@@ -1044,7 +1044,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 22.0,
+  "sequence_id": 21.0,
   "shortcuts": [
    {
     "color": "Yellow",
@@ -1318,7 +1318,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-09-12 11:21:29.421423",
+  "modified": "2024-03-16 13:37:55.109025",
   "module": "Quality Management",
   "name": "Quality",
   "number_cards": [],
@@ -2049,7 +2049,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-09-12 11:21:29.252411",
+  "modified": "2024-03-16 13:37:54.952296",
   "module": "Manufacturing",
   "name": "Manufacturing",
   "number_cards": [],
@@ -2540,7 +2540,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-09-12 11:21:29.484739",
+  "modified": "2024-03-16 13:37:55.172093",
   "module": "Loan Management",
   "name": "Loans",
   "number_cards": [],
@@ -2743,7 +2743,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-09-12 11:21:29.138892",
+  "modified": "2024-03-16 13:37:54.847758",
   "module": "ERPNext Integrations",
   "name": "ERPNext Integrations",
   "number_cards": [],
@@ -2768,7 +2768,7 @@
   "is_hidden": 1,
   "label": "ERPNext Settings",
   "links": [],
-  "modified": "2023-09-12 11:21:29.189031",
+  "modified": "2024-03-16 13:37:54.894949",
   "module": "Setup",
   "name": "ERPNext Settings",
   "number_cards": [],
@@ -3307,7 +3307,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-11-16 15:10:37.855348",
+  "modified": "2024-03-16 13:37:54.414539",
   "module": "Website",
   "name": "Website",
   "number_cards": [],
@@ -3316,7 +3316,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 6.0,
+  "sequence_id": 9.0,
   "shortcuts": [
    {
     "color": "Green",
@@ -3702,7 +3702,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-11-16 15:10:38.026189",
+  "modified": "2024-03-16 13:37:54.561890",
   "module": "Automation",
   "name": "Tools",
   "number_cards": [],
@@ -3711,7 +3711,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 8.0,
+  "sequence_id": 11.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -4001,7 +4001,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-11-16 15:10:37.728556",
+  "modified": "2024-03-16 13:37:54.182397",
   "module": "Core",
   "name": "Users",
   "number_cards": [],
@@ -4010,7 +4010,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 5.0,
+  "sequence_id": 6.0,
   "shortcuts": [
    {
     "color": null,
@@ -4620,7 +4620,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-11-16 15:10:37.945596",
+  "modified": "2024-03-16 13:37:54.485243",
   "module": "Core",
   "name": "Build",
   "number_cards": [],
@@ -4629,7 +4629,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 7.0,
+  "sequence_id": 10.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -5618,7 +5618,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2023-11-19 17:38:46.529291",
+  "modified": "2024-03-16 13:37:54.122875",
   "module": "Integrations",
   "name": "Integrations",
   "number_cards": [],
@@ -5627,7 +5627,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 4.0,
+  "sequence_id": 5.0,
   "shortcuts": [],
   "title": "Integrations"
  },
@@ -5640,7 +5640,7 @@
   "for_user": "",
   "hide_custom": 0,
   "icon": "getting-started",
-  "is_hidden": 0,
+  "is_hidden": 1,
   "label": "Home",
   "links": [
    {
@@ -5980,7 +5980,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2024-03-06 10:02:48.156370",
+  "modified": "2024-03-16 13:38:07.753836",
   "module": "Setup",
   "name": "Home",
   "number_cards": [],
@@ -5989,7 +5989,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 3.0,
+  "sequence_id": 1.0,
   "shortcuts": [
    {
     "color": null,
@@ -6091,7 +6091,7 @@
   "for_user": "",
   "hide_custom": 0,
   "icon": "crm",
-  "is_hidden": 0,
+  "is_hidden": 1,
   "label": "CRM",
   "links": [
    {
@@ -6767,7 +6767,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2024-03-06 10:02:52.716461",
+  "modified": "2024-03-16 13:37:55.244699",
   "module": "CRM",
   "name": "CRM",
   "number_cards": [],
@@ -6776,7 +6776,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 22.0,
+  "sequence_id": 20.0,
   "shortcuts": [
    {
     "color": "Blue",
@@ -6878,7 +6878,7 @@
   "for_user": "",
   "hide_custom": 0,
   "icon": "sell",
-  "is_hidden": 0,
+  "is_hidden": 1,
   "label": "Selling",
   "links": [
    {
@@ -7794,7 +7794,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2024-03-06 10:02:41.828473",
+  "modified": "2024-03-16 13:37:54.625946",
   "module": "Selling",
   "name": "Selling",
   "number_cards": [],
@@ -7803,7 +7803,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 8.0,
+  "sequence_id": 12.0,
   "shortcuts": [
    {
     "color": null,
@@ -7905,7 +7905,7 @@
   "for_user": "",
   "hide_custom": 0,
   "icon": "buying",
-  "is_hidden": 0,
+  "is_hidden": 1,
   "label": "Buying",
   "links": [
    {
@@ -8661,7 +8661,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2024-03-06 10:02:44.816561",
+  "modified": "2024-03-16 13:37:54.315950",
   "module": "Buying",
   "name": "Buying",
   "number_cards": [],
@@ -8670,7 +8670,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 6.0,
+  "sequence_id": 8.0,
   "shortcuts": [
    {
     "color": "Green",
@@ -8788,7 +8788,7 @@
   "for_user": "",
   "hide_custom": 0,
   "icon": "accounting",
-  "is_hidden": 0,
+  "is_hidden": 1,
   "label": "Accounting",
   "links": [
    {
@@ -10424,7 +10424,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2024-03-06 10:02:47.024054",
+  "modified": "2024-03-16 13:37:53.975709",
   "module": "Accounts",
   "name": "Accounting",
   "number_cards": [],
@@ -10599,7 +10599,7 @@
   "for_user": "",
   "hide_custom": 0,
   "icon": "stock",
-  "is_hidden": 0,
+  "is_hidden": 1,
   "label": "Stock",
   "links": [
    {
@@ -11659,7 +11659,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2024-03-06 10:02:57.089399",
+  "modified": "2024-03-16 13:37:54.736018",
   "module": "Stock",
   "name": "Stock",
   "number_cards": [],
@@ -11668,7 +11668,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 9.0,
+  "sequence_id": 13.0,
   "shortcuts": [
    {
     "color": "Green",
@@ -11811,7 +11811,7 @@
     "parenttype": "Workspace"
    }
   ],
-  "content": "[{\"id\":\"sQhAnoAc8k\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Total Customers\",\"col\":12}},{\"id\":\"4TL0kvGpRL\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"btrofCqd8R\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Items\",\"col\":3}},{\"id\":\"uH5b7R-PhN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Invoice\",\"col\":3}},{\"id\":\"mN8BpFFIUe\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Taxes and Charges Template\",\"col\":3}},{\"id\":\"cSLh8sGGts\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"IJ5w7ew1yz\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports</b></span>\",\"col\":12}},{\"id\":\"DbLFXM6KkO\",\"type\":\"card\",\"data\":{\"card_name\":\"Sales Invoice Summary\",\"col\":4}}]",
+  "content": "[{\"id\":\"sQhAnoAc8k\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Total Customers\",\"col\":12}},{\"id\":\"4TL0kvGpRL\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"btrofCqd8R\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Items\",\"col\":3}},{\"id\":\"xreVXzfRUd\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Customers\",\"col\":3}},{\"id\":\"uH5b7R-PhN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Invoices\",\"col\":3}},{\"id\":\"mN8BpFFIUe\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Taxes and Charges Template\",\"col\":3}},{\"id\":\"cSLh8sGGts\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"IJ5w7ew1yz\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports</b></span>\",\"col\":12}},{\"id\":\"DbLFXM6KkO\",\"type\":\"card\",\"data\":{\"card_name\":\"Sales Invoice Summary\",\"col\":4}}]",
   "custom_blocks": [],
   "docstatus": 0,
   "doctype": "Workspace",
@@ -11827,7 +11827,7 @@
     "icon": null,
     "is_query_report": 0,
     "label": "Sales Invoice Summary",
-    "link_count": 1,
+    "link_count": 3,
     "link_to": null,
     "link_type": null,
     "onboard": 0,
@@ -11852,10 +11852,42 @@
     "parentfield": "links",
     "parenttype": "Workspace",
     "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 1,
+    "label": "Total Monthly Revenue From Different Categories",
+    "link_count": 0,
+    "link_to": "Total Monthly Revenue From Different Categories",
+    "link_type": "Report",
+    "onboard": 0,
+    "only_for": null,
+    "parent": "Toehold",
+    "parentfield": "links",
+    "parenttype": "Workspace",
+    "type": "Link"
+   },
+   {
+    "dependencies": null,
+    "hidden": 0,
+    "icon": null,
+    "is_query_report": 1,
+    "label": "Monthly Revenue from diffrerent Items",
+    "link_count": 0,
+    "link_to": "Monthly Revenue from diffrerent items",
+    "link_type": "Report",
+    "onboard": 0,
+    "only_for": null,
+    "parent": "Toehold",
+    "parentfield": "links",
+    "parenttype": "Workspace",
+    "type": "Link"
    }
   ],
-  "modified": "2024-03-14 13:21:44.758662",
-  "module": null,
+  "modified": "2024-03-16 16:46:30.500394",
+  "module": "Toehold",
   "name": "Toehold",
   "number_cards": [],
   "parent_page": "",
@@ -11863,8 +11895,24 @@
   "quick_lists": [],
   "restrict_to_domain": null,
   "roles": [],
-  "sequence_id": 23.0,
+  "sequence_id": 3.0,
   "shortcuts": [
+   {
+    "color": "Grey",
+    "doc_view": "List",
+    "format": null,
+    "icon": null,
+    "kanban_board": null,
+    "label": "Customers",
+    "link_to": "Customer",
+    "parent": "Toehold",
+    "parentfield": "shortcuts",
+    "parenttype": "Workspace",
+    "restrict_to_domain": null,
+    "stats_filter": null,
+    "type": "DocType",
+    "url": null
+   },
    {
     "color": "Grey",
     "doc_view": "List",
@@ -11887,7 +11935,7 @@
     "format": null,
     "icon": null,
     "kanban_board": null,
-    "label": "Sales Invoice",
+    "label": "Sales Invoices",
     "link_to": "Sales Invoice",
     "parent": "Toehold",
     "parentfield": "shortcuts",
@@ -11915,5 +11963,45 @@
    }
   ],
   "title": "Toehold"
+ },
+ {
+  "charts": [
+   {
+    "chart_name": "Monthly Total Quantity of Items",
+    "label": "Monthly Total Quantity of Items",
+    "parent": "Dashboards",
+    "parentfield": "charts",
+    "parenttype": "Workspace"
+   },
+   {
+    "chart_name": "Category Wise No of Customers",
+    "label": "Category Wise No of Customers",
+    "parent": "Dashboards",
+    "parentfield": "charts",
+    "parenttype": "Workspace"
+   }
+  ],
+  "content": "[{\"id\":\"uCuhCkLPPR\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Category Wise No of Customers\",\"col\":12}},{\"id\":\"01MBl8fa7y\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Monthly Total Quantity of Items\",\"col\":12}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "dashboard-list",
+  "is_hidden": 0,
+  "label": "Dashboards",
+  "links": [],
+  "modified": "2024-03-16 17:16:47.602616",
+  "module": "Toehold",
+  "name": "Dashboards",
+  "number_cards": [],
+  "parent_page": "",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 2.0,
+  "shortcuts": [],
+  "title": "Dashboards"
  }
 ]

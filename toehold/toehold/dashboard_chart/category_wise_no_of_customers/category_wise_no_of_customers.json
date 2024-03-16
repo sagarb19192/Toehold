@@ -1,0 +1,32 @@
+{
+ "chart_name": "Category Wise No of Customers",
+ "chart_type": "Report",
+ "creation": "2024-03-16 13:39:26.301698",
+ "docstatus": 0,
+ "doctype": "Dashboard Chart",
+ "dynamic_filters_json": "{}",
+ "filters_json": "{}",
+ "group_by_type": "Count",
+ "idx": 0,
+ "is_public": 1,
+ "is_standard": 1,
+ "modified": "2024-03-16 13:39:26.301698",
+ "modified_by": "Administrator",
+ "module": "Toehold",
+ "name": "Category Wise No of Customers",
+ "number_of_groups": 0,
+ "owner": "Administrator",
+ "report_name": "Category Wise No of Customers",
+ "roles": [],
+ "time_interval": "Yearly",
+ "timeseries": 0,
+ "timespan": "Last Year",
+ "type": "Bar",
+ "use_report_chart": 0,
+ "x_field": "category",
+ "y_axis": [
+  {
+   "y_field": "no._of_customers"
+  }
+ ]
+}
