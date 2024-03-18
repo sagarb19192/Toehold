@@ -9,7 +9,7 @@
    "label": "Category Wise No of Customers"
   }
  ],
- "content": "[{\"id\":\"uCuhCkLPPR\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Category Wise No of Customers\",\"col\":12}},{\"id\":\"01MBl8fa7y\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Monthly Total Quantity of Items\",\"col\":12}}]",
+ "content": "[{\"id\":\"EMr7Vy45D0\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Photo tour Dashboard\",\"col\":3}},{\"id\":\"40NgnxN9jG\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"BLR-Rentals Dashboard\",\"col\":3}},{\"id\":\"6k65aesACr\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Kabini-Rentals Dashboard\",\"col\":3}},{\"id\":\"CA30YkAhoZ\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Academy Dashboard\",\"col\":3}},{\"id\":\"Qcf1AYJbAf\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"uCuhCkLPPR\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Category Wise No of Customers\",\"col\":12}},{\"id\":\"01MBl8fa7y\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Monthly Total Quantity of Items\",\"col\":12}}]",
  "creation": "2024-03-16 13:35:36.144485",
  "custom_blocks": [],
  "docstatus": 0,
@@ -21,7 +21,7 @@
  "is_hidden": 0,
  "label": "Dashboards",
  "links": [],
- "modified": "2024-03-16 17:16:47.602616",
+ "modified": "2024-03-18 08:18:39.560559",
  "modified_by": "Administrator",
  "module": "Toehold",
  "name": "Dashboards",
@@ -32,6 +32,35 @@
  "quick_lists": [],
  "roles": [],
  "sequence_id": 2.0,
- "shortcuts": [],
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Photo tour Dashboard",
+   "link_to": "Photo tour History",
+   "type": "Dashboard"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "BLR-Rentals Dashboard",
+   "link_to": "BLR-Rentals History",
+   "type": "Dashboard"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Kabini-Rentals Dashboard",
+   "link_to": "Kabini-Rentals History",
+   "type": "Dashboard"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Academy Dashboard",
+   "link_to": "Academy History",
+   "type": "Dashboard"
+  }
+ ],
  "title": "Dashboards"
 }

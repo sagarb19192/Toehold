@@ -1,0 +1,29 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "Monthly no of customers for Kabini-Rentals",
+   "width": "Full"
+  },
+  {
+   "chart": "Monthly total no of customers for Kabini-Rentals Items",
+   "width": "Full"
+  },
+  {
+   "chart": "Monthly No of Customers for Descriptions(Kabini-Rentals)",
+   "width": "Full"
+  }
+ ],
+ "creation": "2024-03-18 08:13:59.531031",
+ "dashboard_name": "Kabini-Rentals History",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2024-03-18 08:34:52.126113",
+ "modified_by": "Administrator",
+ "module": "Toehold",
+ "name": "Kabini-Rentals History",
+ "owner": "Administrator"
+}

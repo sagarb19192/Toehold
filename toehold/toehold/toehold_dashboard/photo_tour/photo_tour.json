@@ -1,0 +1,21 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "Photo tour",
+   "width": "Full"
+  }
+ ],
+ "creation": "2024-03-18 08:12:02.267793",
+ "dashboard_name": "photo tour",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2024-03-18 08:12:02.267793",
+ "modified_by": "Administrator",
+ "module": "Toehold",
+ "name": "photo tour",
+ "owner": "Administrator"
+}

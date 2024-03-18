@@ -1,0 +1,29 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "Monthly no of customers for Academy",
+   "width": "Full"
+  },
+  {
+   "chart": "Monthly total no of customers for Academy Items",
+   "width": "Full"
+  },
+  {
+   "chart": "Monthly No of Customers for Descriptions(Academy)",
+   "width": "Full"
+  }
+ ],
+ "creation": "2024-03-18 08:14:19.348783",
+ "dashboard_name": "Academy History",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2024-03-18 08:34:42.204541",
+ "modified_by": "Administrator",
+ "module": "Toehold",
+ "name": "Academy History",
+ "owner": "Administrator"
+}

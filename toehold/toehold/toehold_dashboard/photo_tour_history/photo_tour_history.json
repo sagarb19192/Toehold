@@ -1,0 +1,29 @@
+{
+ "cards": [],
+ "charts": [
+  {
+   "chart": "Monthly No of customers for Photo tour",
+   "width": "Full"
+  },
+  {
+   "chart": "Monthly total No of Customers for Photo tour Items",
+   "width": "Full"
+  },
+  {
+   "chart": "Monthly No of Customers for Different Descriptions",
+   "width": "Full"
+  }
+ ],
+ "creation": "2024-03-18 08:13:22.631275",
+ "dashboard_name": "Photo tour History",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2024-03-18 08:24:13.438450",
+ "modified_by": "Administrator",
+ "module": "Toehold",
+ "name": "Photo tour History",
+ "owner": "Administrator"
+}

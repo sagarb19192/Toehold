@@ -5,7 +5,7 @@
    "label": "Total Customers"
   }
  ],
- "content": "[{\"id\":\"sQhAnoAc8k\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Total Customers\",\"col\":12}},{\"id\":\"4TL0kvGpRL\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"btrofCqd8R\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Items\",\"col\":3}},{\"id\":\"xreVXzfRUd\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Customers\",\"col\":3}},{\"id\":\"uH5b7R-PhN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Invoices\",\"col\":3}},{\"id\":\"mN8BpFFIUe\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Taxes and Charges Template\",\"col\":3}},{\"id\":\"cSLh8sGGts\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"IJ5w7ew1yz\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports</b></span>\",\"col\":12}},{\"id\":\"DbLFXM6KkO\",\"type\":\"card\",\"data\":{\"card_name\":\"Sales Invoice Summary\",\"col\":4}}]",
+ "content": "[{\"id\":\"sQhAnoAc8k\",\"type\":\"chart\",\"data\":{\"chart_name\":\"Total Customers\",\"col\":12}},{\"id\":\"4TL0kvGpRL\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"btrofCqd8R\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Items\",\"col\":3}},{\"id\":\"xreVXzfRUd\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Customers\",\"col\":3}},{\"id\":\"uH5b7R-PhN\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Invoices\",\"col\":3}},{\"id\":\"mN8BpFFIUe\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Sales Taxes and Charges Template\",\"col\":3}},{\"id\":\"cSLh8sGGts\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"IJ5w7ew1yz\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports</b></span>\",\"col\":12}},{\"id\":\"DbLFXM6KkO\",\"type\":\"card\",\"data\":{\"card_name\":\"Sales Invoice Summary\",\"col\":4}},{\"id\":\"MtK7pXi9-w\",\"type\":\"card\",\"data\":{\"card_name\":\"Photo tour History\",\"col\":4}},{\"id\":\"5crh_sOq-e\",\"type\":\"card\",\"data\":{\"card_name\":\"BLR-Rentals History\",\"col\":4}},{\"id\":\"YOttglXmHZ\",\"type\":\"card\",\"data\":{\"card_name\":\"Kabini-Rentals History\",\"col\":4}},{\"id\":\"CsKnL-2YKP\",\"type\":\"card\",\"data\":{\"card_name\":\"Academy History\",\"col\":4}},{\"id\":\"QmvUbWpX_7\",\"type\":\"card\",\"data\":{\"card_name\":\"Customer Category Analysis\",\"col\":4}}]",
  "creation": "2024-03-16 08:25:34.522901",
  "custom_blocks": [],
  "docstatus": 0,
@@ -53,9 +53,179 @@
    "link_type": "Report",
    "onboard": 0,
    "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Photo tour History",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly no of customers for photo tour",
+   "link_count": 0,
+   "link_to": "Monthly no of customers for photo tour",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly total no of customers for photo tour items",
+   "link_count": 0,
+   "link_to": "Monthly total no of customers for photo tour items",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly No of Customers for Descriptions",
+   "link_count": 0,
+   "link_to": "Monthly No of Customers for Descriptions",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "BLR-Rentals History",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly no of customers for BLR-Rentals",
+   "link_count": 0,
+   "link_to": "Monthly no of customers for BLR-Rentals",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly total no of customers for BLR-Rentals Items",
+   "link_count": 0,
+   "link_to": "Monthly total no of customers for BLR-Rentals Items",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly No of Customers for Descriptions(BLR-Rentals)",
+   "link_count": 0,
+   "link_to": "Monthly No of Customers for Descriptions(BLR-Rentals)",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Academy History",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly no of customers for Academy",
+   "link_count": 0,
+   "link_to": "Monthly no of customers for Academy",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly total no of customers for Academy Items",
+   "link_count": 0,
+   "link_to": "Monthly total no of customers for Academy Items",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly No of Customers for Descriptions(Academy)",
+   "link_count": 0,
+   "link_to": "Monthly No of Customers for Descriptions(Academy)",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Kabini-Rentals History",
+   "link_count": 3,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly no of customers for Kabini-Rentals",
+   "link_count": 0,
+   "link_to": "Monthly no of customers for Kabini-Rentals",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly total no of customers for Kabini-Rentals Items",
+   "link_count": 0,
+   "link_to": "Monthly total no of customers for Kabini-Rentals Items",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Monthly No of Customers for Descriptions(Kabini-Rentals)",
+   "link_count": 0,
+   "link_to": "Monthly No of Customers for Descriptions(Kabini-Rentals)",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Customer Category Analysis",
+   "link_count": 1,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 1,
+   "label": "Customer Category Analysis",
+   "link_count": 0,
+   "link_to": "Customer Category Analysis",
+   "link_type": "Report",
+   "onboard": 0,
+   "type": "Link"
   }
  ],
- "modified": "2024-03-16 16:46:30.500394",
+ "modified": "2024-03-18 00:51:23.691842",
  "modified_by": "Administrator",
  "module": "Toehold",
  "name": "Toehold",
